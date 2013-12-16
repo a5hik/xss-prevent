@@ -1,7 +1,7 @@
-xss-remedy
+xss-prevent
 ==========
 
-The XSS remedy stops the XSS threats by means of a contextual output encoding/escaping.
+The XSS prevent stops the XSS threats by means of a contextual output encoding/escaping.
 Supports for most common context targets in web applications (e.g. HTML, XML, CSS, JavaScript, URL Params).
 
 It also provides a decode/un escape functions to the encoded strings.
